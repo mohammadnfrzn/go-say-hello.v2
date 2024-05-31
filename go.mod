@@ -1,3 +1,3 @@
-module github.com/mohammadnfrzn/go-say-hello.v2
+module github.com/mohammadnfrzn/go-say-hello.v2/v2
 
 go 1.22.0
